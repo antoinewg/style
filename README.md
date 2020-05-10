@@ -15,4 +15,4 @@ You're ready to go 🚀!
 
 ### Source
 
-Original inspiration: [Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
+Original inspiration: [Art Style Transfer](https://github.com/Lasagne/Recipes/blob/master/examples/styletransfer/Art%20Style%20Transfer.ipynb)
