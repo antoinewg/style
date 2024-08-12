@@ -75,7 +75,7 @@ scikit-image==0.17.1
 scipy==1.4.1
 Send2Trash==1.5.0
 six==1.14.0
-streamlit==0.59.0
+streamlit==1.37.0
 terminado==0.8.3
 testpath==0.4.4
 Theano==1.0.4
